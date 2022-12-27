@@ -67,8 +67,7 @@ change this line to
 
 ad_group_ad.status = client.enums.AdGroupStatusEnum.ENABLED for enabling the ad
 
-c) 
-
+For  c) use https://developers.google.com/google-ads/api/samples/
 
 python3 addkeyword.py -c 9579089629 -a 145126336535 -k "test"
 Created keyword customers/9579089629/adGroupCriteria/145126336535~16179410.
