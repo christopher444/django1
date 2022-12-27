@@ -79,6 +79,6 @@ python3 bidmodifier.py -c 9579089629 -a 145126336535 -b 1.2
 
 Created ad group bid modifier: customers/9579089629/adGroupBidModifiers/145126336535~30001
 
-
+Step 5:  Yet to be done UNIT TESTING WITH MOCKING
 
 
