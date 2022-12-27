@@ -48,8 +48,10 @@ Please see scripts/two.py for python script to load the table from the sample cs
 After that for setting the following new column values
 
 UPDATE tablename set CPC =  clicks/cost 
+
 UPDATE tablename set CPA =  conversions/cost
-UDPATE tablename set ROAS = (revenueperconversion * conversions)/cost
+
+UPDATE tablename set ROAS = (revenueperconversion * conversions)/cost
 
 Step 4:
 
